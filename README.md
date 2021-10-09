@@ -12,7 +12,9 @@ init(){
 }
 
 var body: some View {
-  self.rewardAd.showAd(rewardFunction: { // TODO }
+  self.rewardAd.showAd(rewardFunction: { 
+    // TODO 
+  }
 }
 ```
 
